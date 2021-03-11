@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+C:\Users\kodeb\CoreJavaLabBook\.metadata\.plugins\org.eclipse.jdt.core
+299656582.index
+1639354633.index
+2411261989.index
+2295673916.index
+380739999.index
+1281376111.index
+4291953834.index
